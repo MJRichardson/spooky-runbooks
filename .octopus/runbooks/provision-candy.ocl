@@ -1,4 +1,4 @@
-name = "Provision Candy"
+name = "🍭 Provision Candy"
 default_guided_failure_mode = "EnvironmentDefault"
 description = ""
 
